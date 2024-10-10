@@ -1,1 +1,1 @@
-# strategic_businessanalytics_project
+creating dummy data to solve a business problem for  Strategic Business Analytics slass project.
