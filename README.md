@@ -1,1 +1,1 @@
-creating dummy data to solve a business problem for  Strategic Business Analytics slass project.
+creating dummy data to solve a business problem for  a Strategic Business Analytics class project.
